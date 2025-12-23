@@ -3,9 +3,9 @@ AppName=ADEO Migracija
 AppVersion=1.0
 ; --- COPYRIGHT I LIČNI PODACI ---
 AppCopyright=Copyright (C) 2025 Sinisa Becic
-AppPublisher=Tvoje Ime i Prezime
+AppPublisher=Sinisa Becic
 AppPublisherURL=https://github.com/sinisabecic
-; AppSupportURL=https://github.com/sinisabecic/adeo-migracija/issues
+AppSupportURL=https://github.com/sinisabecic/AdeoMigrationDev
 VersionInfoCompany=Sinisa Becic
 VersionInfoDescription=Alat za migraciju artikala i komitenata iz ADEO sistema u VG sistem
 VersionInfoVersion=1.0.0.0
