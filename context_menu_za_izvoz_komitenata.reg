@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.xlsx\shell\IzveziKomitenteVG]
+@="Izvezi komitente (VG)"
+"Icon"="excel.exe"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.xlsx\shell\IzveziKomitenteVG\command]
+@="wscript.exe \"C:\\dev-vg\\UvozKomitenata.vbs\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.xls\shell\IzveziKomitenteVG]
+@="Izvezi komitente (VG)"
+"Icon"="excel.exe"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.xls\shell\IzveziKomitenteVG\command]
+@="wscript.exe \"C:\\dev-vg\\UvozKomitenata.vbs\" \"%1\""
