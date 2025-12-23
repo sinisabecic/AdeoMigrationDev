@@ -4,7 +4,7 @@ Formatiranje ADEO podataka u VG format.
 
 ## ⬇️ Download
 
-Možete preuzeti najnoviju verziju ovdje:
+<!-- Možete preuzeti najnoviju verziju ovdje: -->
 
 | Platforma | Link |
 | :--- | :--- |
