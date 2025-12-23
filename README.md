@@ -1,6 +1,6 @@
 # Adeo To VG migracija 🚀
 
-Formatiranje ADEO podataka u VG format.
+Alat za migraciju artikala i komitenata iz ADEO programa u VG program.
 
 ## ⬇️ Download
 
