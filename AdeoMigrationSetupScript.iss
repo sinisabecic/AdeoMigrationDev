@@ -8,7 +8,7 @@ AppPublisherURL=https://github.com/sinisabecic
 AppSupportURL=https://github.com/sinisabecic/AdeoMigrationDev
 VersionInfoCompany=Sinisa Becic
 VersionInfoDescription=Alat za migraciju artikala i komitenata iz ADEO sistema u VG sistem
-VersionInfoVersion=1.0.0.0
+VersionInfoVersion=1.0.0.1
 
 DefaultDirName=C:\dev-vg\adeo-migracija
 DefaultGroupName=ADEO Migracija
